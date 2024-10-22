@@ -1,4 +1,0 @@
-name: Conquest SMP
-version: '${version}'
-main: vero.vero.conquestsmp.ConquestSMP
-api-version: '1.21'
