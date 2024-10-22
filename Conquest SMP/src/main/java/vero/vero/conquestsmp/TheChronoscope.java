@@ -1,5 +1,4 @@
 package vero.vero.conquestsmp;
 
-public class LegendaryWeapons {
-
+public class TheChronoscope {
 }
