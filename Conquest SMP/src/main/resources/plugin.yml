@@ -1,0 +1,4 @@
+name: Conquest SMP
+version: '${project.version}'
+main: pelm.vero.conquestsmp.ConquestSMP
+api-version: '1.21'
