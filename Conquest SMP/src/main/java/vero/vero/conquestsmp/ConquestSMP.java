@@ -7,6 +7,7 @@ public final class ConquestSMP extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
+        LegendaryWeapons goon = new LegendaryWeapons();
 
     }
 
